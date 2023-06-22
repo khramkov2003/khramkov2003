@@ -1,0 +1,14 @@
+[pack]
+	buildbitmaps = false
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[user]
+	name = Student 2
+	email = Student 2@student2
+[remote "origin"]
+	url = https://shibasyrok@github.com/shibasyrok/Dugeon-Slaves
+	fetch = +refs/heads/*:refs/remotes/origin/*
